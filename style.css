@@ -17,7 +17,7 @@ body, html {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
     /* NUEVO: mover el cartel un poco hacia arriba */
-    transform: translateY(-195%);
+    transform: translateY(-125%);
     color: white;
 }
 
